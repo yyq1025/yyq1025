@@ -27,7 +27,6 @@
 
 ### Libraries & Tools
 
-
 [![React](https://api.iconify.design/simple-icons/react.svg?color=%2361DAFB&height=20)](https://reactjs.org/)
 [![MUI](https://api.iconify.design/simple-icons/mui.svg?color=%23007FFF&height=20)](https://mui.com/)
 [![React Router](https://api.iconify.design/simple-icons/reactrouter.svg?color=%23CA4245&height=20)](https://reactrouter.com/)
@@ -43,3 +42,11 @@
 [![Google Cloud](https://api.iconify.design/simple-icons/googlecloud.svg?color=%234285F4&height=20)](https://cloud.google.com/)
 [![NGINX](https://api.iconify.design/simple-icons/nginx.svg?color=%23009639&height=20)](https://www.nginx.com/)
 [![Figma](https://api.iconify.design/simple-icons/figma.svg?color=%23F24E1E&height=20)](https://www.figma.com/)
+
+### GitHub Stats
+
+[![yyq321's GitHub stats](https://github-readme-stats.vercel.app/api?username=yyq321&count_private=true&show_icons=true)](https://github.com/yyq321)
+
+### Last Week
+
+[![yyq321's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yyq321&layout=compact)](https://wakatime.com/@yyq321)
