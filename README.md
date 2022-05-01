@@ -1,8 +1,8 @@
 ### Hi There, I'm Yueqian Yang 👋
 
 - 🔭 I’m currently studying at ***the University of Michigan***
-- 🌱 I’m currently learning **Django**, **React.js**, and **TypeScript**
-- 🤔 I’m looking for help with finding SDE jobs
+- 🌱 I’m currently learning **Django**, **React**, and **TypeScript**
+- 🤔 I’m currently looking for ***Software Developers and Engineers*** jobs
 - 📫 How to reach me?
   
   [![LinkedIn](https://api.iconify.design/simple-icons/linkedin.svg?color=%230A66C2&height=20)](https://www.linkedin.com/in/yueqian-yang-563990194/)
@@ -24,3 +24,22 @@
 [![Markdown](https://api.iconify.design/simple-icons/markdown.svg?color=%23000000&height=20)](https://spec.commonmark.org/)
 [![Solidity](https://api.iconify.design/simple-icons/solidity.svg?color=%23363636&height=20)](https://soliditylang.org/)
 [![Java](https://api.iconify.design/simple-icons/java.svg?color=%23007396&height=20)](https://www.java.com/) 
+
+### Libraries & Tools
+
+
+[![React](https://api.iconify.design/simple-icons/react.svg?color=%2361DAFB&height=20)](https://reactjs.org/)
+[![MUI](https://api.iconify.design/simple-icons/mui.svg?color=%23007FFF&height=20)](https://mui.com/)
+[![React Router](https://api.iconify.design/simple-icons/reactrouter.svg?color=%23CA4245&height=20)](https://reactrouter.com/)
+[![Redux](https://api.iconify.design/simple-icons/redux.svg?color=%23764ABC&height=20)](https://redux.js.org/)
+[![jQuery](https://api.iconify.design/simple-icons/jquery.svg?color=%230769AD&height=20)](https://jquery.com/)
+[![npm](https://api.iconify.design/simple-icons/npm.svg?color=%23CB3837&height=20)](https://www.npmjs.com/)
+[![Git](https://api.iconify.design/simple-icons/git.svg?color=%23F05032&height=20)](https://git-scm.com/)
+[![ESLint](https://api.iconify.design/simple-icons/eslint.svg?color=%234B32C3&height=20)](https://eslint.org/)
+[![Prettier](https://api.iconify.design/simple-icons/prettier.svg?color=%23F7B93E&height=20)](https://prettier.io/)
+[![Web3.js](https://api.iconify.design/simple-icons/web3dotjs.svg?color=%23F16822&height=20)](https://web3js.readthedocs.io/)
+[![Ubuntu](https://api.iconify.design/simple-icons/ubuntu.svg?color=%23E95420&height=20)](https://ubuntu.com/)
+[![Amazon AWS](https://api.iconify.design/simple-icons/amazonaws.svg?color=%23232F3E&height=20)](https://aws.amazon.com/)
+[![Google Cloud](https://api.iconify.design/simple-icons/googlecloud.svg?color=%234285F4&height=20)](https://cloud.google.com/)
+[![NGINX](https://api.iconify.design/simple-icons/nginx.svg?color=%23009639&height=20)](https://www.nginx.com/)
+[![Figma](https://api.iconify.design/simple-icons/figma.svg?color=%23F24E1E&height=20)](https://www.figma.com/)
