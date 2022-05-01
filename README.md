@@ -43,10 +43,10 @@
 [![NGINX](https://api.iconify.design/simple-icons/nginx.svg?color=%23009639&height=24)](https://www.nginx.com/)
 [![Figma](https://api.iconify.design/simple-icons/figma.svg?color=%23F24E1E&height=24)](https://www.figma.com/)
 
-### GitHub Stats
+### GitHub Statistics
 
-[![yyq321's GitHub stats](https://github-readme-stats.vercel.app/api?username=yyq321&count_private=true&show_icons=true)](https://github.com/yyq321)
+[![yyq321's GitHub stats](https://github-readme-stats.vercel.app/api?username=yyq321&count_private=true&show_icons=true&hide_title=true)](https://github.com/yyq321)
 
-### Last Week
+### Last Week Code Time
 
-[![yyq321's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yyq321&layout=compact)](https://wakatime.com/@yyq321)
+[![yyq321's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yyq321&layout=compact&hide_title=true)](https://wakatime.com/@yyq321)
