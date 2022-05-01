@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi There, I'm Yueqian Yang 👋
 
-- 🔭 I’m currently working on something cool!
+- 🔭 I’m currently studying at ***the University of Michigan***
 - 🌱 I’m currently learning **Django**, **React.js**, and **TypeScript**
 - 🤔 I’m looking for help with finding SDE jobs
 - 📫 How to reach me?
