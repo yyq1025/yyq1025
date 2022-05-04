@@ -14,10 +14,10 @@
 [![C++](https://api.iconify.design/simple-icons/cplusplus.svg?color=%2300599C&height=24)](https://www.cplusplus.com/)
 [![Python](https://api.iconify.design/simple-icons/python.svg?color=%233776AB&height=24)](https://www.python.org/)
 [![JavaScript](https://api.iconify.design/simple-icons/javascript.svg?color=%23F7DF1E&height=24)](https://www.ecma-international.org/publications-and-standards/standards/ecma-262/)
+[![Vue.js](https://api.iconify.design/simple-icons/vuedotjs.svg?color=%234FC08D&height=24)](https://vuejs.org/)
 [![HTML5](https://api.iconify.design/simple-icons/html5.svg?color=%23E34F26&height=24)](https://html.spec.whatwg.org/)
 [![CSS3](https://api.iconify.design/simple-icons/css3.svg?color=%231572B6&height=24)](https://www.w3.org/TR/CSS/)
 [![Flask](https://api.iconify.design/simple-icons/flask.svg?color=%23000000&height=24)](https://flask.palletsprojects.com/)
-[![Vue.js](https://api.iconify.design/simple-icons/vuedotjs.svg?color=%234FC08D&height=24)](https://vuejs.org/)
 [![Django](https://api.iconify.design/simple-icons/django.svg?color=%23092E20&height=24)](https://www.djangoproject.com/)
 [![TypeScript](https://api.iconify.design/simple-icons/typescript.svg?color=%233178C6&height=24)](https://www.typescriptlang.org/)
 [![Bash](https://api.iconify.design/simple-icons/gnubash.svg?color=%234EAA25&height=24)](https://www.gnu.org/software/bash/)
@@ -30,6 +30,7 @@
 [![React](https://api.iconify.design/simple-icons/react.svg?color=%2361DAFB&height=24)](https://reactjs.org/)
 [![MUI](https://api.iconify.design/simple-icons/mui.svg?color=%23007FFF&height=24)](https://mui.com/)
 [![React Router](https://api.iconify.design/simple-icons/reactrouter.svg?color=%23CA4245&height=24)](https://reactrouter.com/)
+[![Vuetify](https://api.iconify.design/simple-icons/vuetify.svg?color=%231867C0&height=24)](https://vuetifyjs.com/)
 [![Redux](https://api.iconify.design/simple-icons/redux.svg?color=%23764ABC&height=24)](https://redux.js.org/)
 [![jQuery](https://api.iconify.design/simple-icons/jquery.svg?color=%230769AD&height=24)](https://jquery.com/)
 [![npm](https://api.iconify.design/simple-icons/npm.svg?color=%23CB3837&height=24)](https://www.npmjs.com/)
@@ -41,7 +42,6 @@
 [![Amazon AWS](https://api.iconify.design/simple-icons/amazonaws.svg?color=%23232F3E&height=24)](https://aws.amazon.com/)
 [![Google Cloud](https://api.iconify.design/simple-icons/googlecloud.svg?color=%234285F4&height=24)](https://cloud.google.com/)
 [![NGINX](https://api.iconify.design/simple-icons/nginx.svg?color=%23009639&height=24)](https://www.nginx.com/)
-[![Figma](https://api.iconify.design/simple-icons/figma.svg?color=%23F24E1E&height=24)](https://www.figma.com/)
 
 ### GitHub Statistics
 
