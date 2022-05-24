@@ -1,7 +1,7 @@
 ### Hi There, I'm Yueqian Yang 👋
 
 - 🔭 I’m currently studying at ***the University of Michigan***
-- 🌱 I’m currently learning **Django**, **React**, and **TypeScript**
+- 🌱 I’m currently learning **Go**, **React**, and **TypeScript**
 - 🤔 I’m currently looking for ***Software Developers and Engineers*** jobs
 - 📫 How to reach me?
   
