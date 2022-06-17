@@ -45,8 +45,8 @@
 
 ### GitHub Statistics
 
-[![yyq321's GitHub stats](https://github-readme-stats.vercel.app/api?username=yyq321&count_private=true&show_icons=true&hide_title=true)](https://github.com/yyq1025)
+[![yyq1025's GitHub stats](https://github-readme-stats.vercel.app/api?username=yyq1025&count_private=true&show_icons=true&hide_title=true)](https://github.com/yyq1025)
 
 ### Last Week Code Time
 
-[![yyq321's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yyq321&layout=compact&hide_title=true)](https://wakatime.com/@yyq1025)
+[![yyq1025's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yyq1025&layout=compact&hide_title=true)](https://wakatime.com/@yyq1025)
