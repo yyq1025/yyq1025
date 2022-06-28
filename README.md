@@ -23,7 +23,6 @@
 [![Bash](https://api.iconify.design/simple-icons/gnubash.svg?color=%234EAA25&height=24)](https://www.gnu.org/software/bash/)
 [![Markdown](https://api.iconify.design/simple-icons/markdown.svg?color=%23000000&height=24)](https://spec.commonmark.org/)
 [![Solidity](https://api.iconify.design/simple-icons/solidity.svg?color=%23363636&height=24)](https://soliditylang.org/)
-[![Java](https://api.iconify.design/simple-icons/java.svg?color=%23007396&height=24)](https://www.java.com/) 
 
 ### Libraries & Tools
 
@@ -33,14 +32,13 @@
 [![Vuetify](https://api.iconify.design/simple-icons/vuetify.svg?color=%231867C0&height=24)](https://vuetifyjs.com/)
 [![Redux](https://api.iconify.design/simple-icons/redux.svg?color=%23764ABC&height=24)](https://redux.js.org/)
 [![MySQL](https://api.iconify.design/simple-icons/mysql.svg?color=%234479A1&height=24)](https://www.mysql.com/)
-[![jQuery](https://api.iconify.design/simple-icons/jquery.svg?color=%230769AD&height=24)](https://jquery.com/)
 [![npm](https://api.iconify.design/simple-icons/npm.svg?color=%23CB3837&height=24)](https://www.npmjs.com/)
 [![Git](https://api.iconify.design/simple-icons/git.svg?color=%23F05032&height=24)](https://git-scm.com/)
 [![ESLint](https://api.iconify.design/simple-icons/eslint.svg?color=%234B32C3&height=24)](https://eslint.org/)
 [![Prettier](https://api.iconify.design/simple-icons/prettier.svg?color=%23F7B93E&height=24)](https://prettier.io/)
 [![Ubuntu](https://api.iconify.design/simple-icons/ubuntu.svg?color=%23E95420&height=24)](https://ubuntu.com/)
+[![Microsoft Azure](https://api.iconify.design/simple-icons/microsoftazure.svg?color=%230078D4&height=24)](https://azure.microsoft.com/)
 [![Amazon AWS](https://api.iconify.design/simple-icons/amazonaws.svg?color=%23232F3E&height=24)](https://aws.amazon.com/)
-[![Google Cloud](https://api.iconify.design/simple-icons/googlecloud.svg?color=%234285F4&height=24)](https://cloud.google.com/)
 [![NGINX](https://api.iconify.design/simple-icons/nginx.svg?color=%23009639&height=24)](https://www.nginx.com/)
 
 ### GitHub Statistics
