@@ -40,6 +40,10 @@
 
 [![yyq1025's GitHub stats](https://github-readme-stats.vercel.app/api?username=yyq1025&count_private=true&show_icons=true&hide_title=true)](https://github.com/yyq1025)
 
+### Top Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yyq1025&layout=compact&hide_title=true)](https://github.com/yyq1025)
+
 ### Last Week Coding Time
 
 [![yyq1025's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yyq1025&layout=compact&hide_title=true)](https://wakatime.com/@yyq1025)
