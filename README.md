@@ -1,12 +1,12 @@
 ### Hi There, I'm Yueqian Yang 👋
 
-- 🔭 I’m currently studying at ***the University of Michigan***
-- 🌱 I’m currently learning **Go**, **React**, and **TypeScript**
+- 🔭 I’m currently studying at ***University of Illinois Urbana-Champaign***
+- 🌱 I’m currently learning **Java**, **React**, and **TypeScript**
 - 🤔 I’m currently looking for ***Software Developers and Engineers*** jobs
 - 📫 How to reach me?
   
   [![LinkedIn](https://api.iconify.design/simple-icons/linkedin.svg?color=%230A66C2&height=20)](https://www.linkedin.com/in/yangyq/)
-  [![Gmail](https://api.iconify.design/simple-icons/gmail.svg?color=%23EA4335&height=20)](mailto:yangyq@umich.edu)
+  [![Outlook](https://api.iconify.design/simple-icons/microsoftoutlook.svg?color=%230078D4&height=20)](mailto:yueqian8@illinois.edu)
 
 ### Languages & Frameworks
 
