@@ -1,8 +1,8 @@
 ### Hi There, I'm Yueqian Yang 👋
 
 - 🔭 I graduated from ***University of Illinois Urbana-Champaign***
-- 🌱 I’m currently learning **React**, **Next.js**, and **TanStack** libraries
-- 🤔 I’m currently looking for ***Full-stack/Frontend Software Engineer*** jobs
+- 🌱 I’m currently learning **React**, **React Native (Expo)**, and **TanStack** libraries
+- 🤔 I’m currently looking for ***Full-stack/AI Software Engineer*** jobs
 - 📫 How to reach me?
   
   [![LinkedIn](https://api.iconify.design/simple-icons/linkedin.svg?color=%230A66C2&height=20)](https://www.linkedin.com/in/yangyq/)
