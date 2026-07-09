@@ -11,6 +11,8 @@
 ### Technical Skills
 
 [![TypeScript](https://api.iconify.design/simple-icons/typescript.svg?color=%233178C6&height=24)](https://www.typescriptlang.org/)
+[![Node.js](https://api.iconify.design/simple-icons/nodedotjs.svg?color=%235FA04E&height=24)](https://nodejs.org/)
+[![Deno](https://api.iconify.design/simple-icons/deno.svg?color=%23000000&height=24)](https://deno.com/)
 [![React](https://api.iconify.design/simple-icons/react.svg?color=%2361DAFB&height=24)](https://reactjs.org/)
 [![Next.js](https://api.iconify.design/simple-icons/nextdotjs.svg?color=%23000000&height=24)](https://nextjs.org/)
 [![TanStack](https://api.iconify.design/simple-icons/tanstack.svg?color=%23000000&height=24)](https://tanstack.com/)
@@ -26,6 +28,7 @@
 [![Supabase](https://api.iconify.design/simple-icons/supabase.svg?color=%233FCF8E&height=24)](https://supabase.com/)
 [![Cloudflare](https://api.iconify.design/simple-icons/cloudflare.svg?color=%23F38020&height=24)](https://www.cloudflare.com/)
 [![Docker](https://api.iconify.design/simple-icons/docker.svg?color=%232496ED&height=24)](https://www.docker.com/)
+[![Claude Code](https://api.iconify.design/simple-icons/claudecode.svg?color=%23D97757&height=24)](https://claude.com/claude-code)
 [![Google Cloud](https://api.iconify.design/simple-icons/googlecloud.svg?color=%234285F4&height=24)](https://cloud.google.com/)
 [![Python](https://api.iconify.design/simple-icons/python.svg?color=%233776AB&height=24)](https://www.python.org/)
 [![Go](https://api.iconify.design/simple-icons/go.svg?color=%2300ADD8&height=24)](https://go.dev/)
