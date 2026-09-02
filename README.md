@@ -1,42 +1,49 @@
-### Hi There, I'm Yueqian Yang 👋
+# Yueqian (Richard) Yang
 
-- 🔭 I graduated from ***University of Illinois Urbana-Champaign***
-- 🌱 I’m currently learning **React**, **React Native (Expo)**, and **TanStack** libraries
-- 🤔 I’m currently looking for ***Full-stack/AI Software Engineer*** jobs
-- 📫 How to reach me?
-  
-  [![LinkedIn](https://api.iconify.design/simple-icons/linkedin.svg?color=%230A66C2&height=20)](https://www.linkedin.com/in/yangyq/)
-  [![Outlook](https://api.iconify.design/simple-icons/microsoftoutlook.svg?color=%230078D4&height=20)](mailto:yueqian8@illinois.edu)
 
-### Technical Skills
 
-[![TypeScript](https://api.iconify.design/simple-icons/typescript.svg?color=%233178C6&height=24)](https://www.typescriptlang.org/)
-[![Node.js](https://api.iconify.design/simple-icons/nodedotjs.svg?color=%235FA04E&height=24)](https://nodejs.org/)
-[![Deno](https://api.iconify.design/simple-icons/deno.svg?color=%23000000&height=24)](https://deno.com/)
-[![React](https://api.iconify.design/simple-icons/react.svg?color=%2361DAFB&height=24)](https://reactjs.org/)
-[![Next.js](https://api.iconify.design/simple-icons/nextdotjs.svg?color=%23000000&height=24)](https://nextjs.org/)
-[![TanStack](https://api.iconify.design/simple-icons/tanstack.svg?color=%23000000&height=24)](https://tanstack.com/)
-[![Expo](https://api.iconify.design/simple-icons/expo.svg?color=%231C2024&height=24)](https://docs.expo.dev/)
-[![Tailwind CSS](https://api.iconify.design/simple-icons/tailwindcss.svg?color=%2306B6D4&height=24)](https://tailwindcss.com/)
-[![shadcn/ui](https://api.iconify.design/simple-icons/shadcnui.svg?color=%23000000&height=24)](https://ui.shadcn.com/)
-[![Drizzle](https://api.iconify.design/simple-icons/drizzle.svg?color=%23C5F74F&height=24)](https://orm.drizzle.team/)
-[![Zod](https://api.iconify.design/simple-icons/zod.svg?color=%23408AFF&height=24)](https://zod.dev/)
-[![Better Auth](https://api.iconify.design/simple-icons/betterauth.svg?color=%23000000&height=24)](https://www.better-auth.com/)
-[![Biome](https://api.iconify.design/simple-icons/biome.svg?color=%2360A5FA&height=24)](https://biomejs.dev/)
-[![PostgreSQL](https://api.iconify.design/simple-icons/postgresql.svg?color=%234169E1&height=24)](https://www.postgresql.org/)
-[![Vercel](https://api.iconify.design/simple-icons/vercel.svg?color=%23000000&height=24)](https://vercel.com/)
-[![Supabase](https://api.iconify.design/simple-icons/supabase.svg?color=%233FCF8E&height=24)](https://supabase.com/)
-[![Cloudflare](https://api.iconify.design/simple-icons/cloudflare.svg?color=%23F38020&height=24)](https://www.cloudflare.com/)
-[![Docker](https://api.iconify.design/simple-icons/docker.svg?color=%232496ED&height=24)](https://www.docker.com/)
-[![Claude Code](https://api.iconify.design/simple-icons/claudecode.svg?color=%23D97757&height=24)](https://claude.com/claude-code)
-[![Google Cloud](https://api.iconify.design/simple-icons/googlecloud.svg?color=%234285F4&height=24)](https://cloud.google.com/)
-[![Python](https://api.iconify.design/simple-icons/python.svg?color=%233776AB&height=24)](https://www.python.org/)
-[![Go](https://api.iconify.design/simple-icons/go.svg?color=%2300ADD8&height=24)](https://go.dev/)
+Full-stack engineer building LLM agents from React UIs down to Node services, queues, and wire protocols.
 
-### GitHub Statistics
+Designs by hand, builds with agents, verifies by benchmark.
 
-[![yyq1025's GitHub stats](./profile/stats.svg)](https://github.com/yyq1025)
 
-### Top Languages
 
-[![Top Langs](./profile/top-langs.svg)](https://github.com/yyq1025)
+**Open to full-stack / AI product engineering roles** · [LinkedIn](https://www.linkedin.com/in/yangyq/) · yangyueqian1025@gmail.com
+
+
+
+## Building
+
+
+
+- **[Thinkite](https://github.com/thinkite/thinkite)** — desktop & mobile GUI for Claude Code with P2P remote control. Electron + Expo, resumable streaming protocol over the Claude Agent SDK, phone ↔ daemon transport on iroh (QUIC).
+
+- **[ballast](https://github.com/yyq1025/ballast)** — paint-level benchmark harness and reference virtualizer for AI chat transcripts. Measures TanStack Virtual, Legend List, and others on scripted scrolling and real-device touch; every design decision in the repo traces to a number.
+
+- **[react-native-iroh-ffi](https://github.com/yyq1025/react-native-iroh-ffi)** — React Native bindings for the official iroh-ffi: full p2p API surface, prebuilt, no Rust toolchain required.
+
+
+
+## Upstream
+
+
+
+12 PRs merged across 6 repos, all under human maintainer review:
+
+
+
+- **denoland/deno** — 4 (Rust): tray icon, hardlink write-through, `--exclude-unused-npm`, hoisted lifecycle bins
+
+- **facebook/astryx** — 2: ChatLayout instant first-fill + instant scroll-to-bottom, reduced-motion follow-up; open: transcript-scaling [RFC](https://github.com/facebook/astryx/issues/4102) and touch-first [ChatVirtualizer](https://github.com/facebook/astryx/pull/5461)
+
+- **electron-userland/electron-builder** — ULMO/lzma DMG format
+
+- **software-mansion/react-native-enriched-markdown**, **littledivy/laufey**, **sigmaSd/deno-pty**
+
+
+
+## Stack
+
+
+
+TypeScript · React · React Native (Expo) · Electron · Node.js · TanStack Router/Query/DB · PostgreSQL · Redis · iroh (QUIC) · Rust FFI (UniFFI) · Python
