@@ -40,7 +40,7 @@ Designs by hand, builds with agents, verifies by benchmark.
 
 - **electron-userland/electron-builder** — ULMO/lzma DMG format
 
-- **software-mansion/react-native-enriched-markdown**, **littledivy/laufey**, **sigmaSd/deno-pty**
+- **software-mansion/enriched-markdown**, **littledivy/laufey**, **sigmaSd/deno-pty**
 
 
 
